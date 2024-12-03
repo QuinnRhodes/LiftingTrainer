@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LiftingTrainer/static/css/main.e6c13ad2.css",
+    "main.js": "/LiftingTrainer/static/js/main.3d33042a.js",
+    "static/js/453.4900830b.chunk.js": "/LiftingTrainer/static/js/453.4900830b.chunk.js",
+    "index.html": "/LiftingTrainer/index.html",
+    "main.e6c13ad2.css.map": "/LiftingTrainer/static/css/main.e6c13ad2.css.map",
+    "main.3d33042a.js.map": "/LiftingTrainer/static/js/main.3d33042a.js.map",
+    "453.4900830b.chunk.js.map": "/LiftingTrainer/static/js/453.4900830b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3d33042a.js"
+  ]
+}
